@@ -1,4 +1,6 @@
-
+body{
+    background-color: dimgrey;
+}
 a {
     text-align: center;
     font-family: 'Oswald';
@@ -19,9 +21,8 @@ p{
 }
 /* needs edits */
 button {
-    background: #428BCA;
+    background: #3071A9;
     color: #fff;
-    font-family: Sans-serif;
     font-size: 75px;
     height: auto;
     width: auto;
@@ -33,5 +34,5 @@ button {
 }
 
 button:hover {
-  box-shadow: inset 0 0 0 10px #3071A9;
+  background: dimgrey;
 }
